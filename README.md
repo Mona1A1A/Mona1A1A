@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mona 👋</h1>
 
-<!--
-**Mona1A1A/Mona1A1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science Graduate | Interested in Data & AI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏻‍💻 About Me
+Computer Science graduate passionate about technology, innovation, and continuous learning.
+
+Interested in:
+- Data Analytics
+- Artificial Intelligence
+- Emerging Technologies
+- Project Management
+- Software Development
+
+### 🛠️ Technologies & Tools
+- Python
+- SQL
+- Java
+- HTML & CSS
+- Pandas & NumPy
+- Firebase
+
+### 🌱 Currently Learning
+Exploring new technologies and developing my skills in Data Analytics and Artificial Intelligence.
+
+---
+
+<p align="center">
+  Always learning, always growing.
+</p>
